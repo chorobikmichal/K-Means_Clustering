@@ -1,7 +1,7 @@
 # K-Means Clustering
 
 
-This program uses the K-Means Clustering algorithm. The dataset which I analysed contains information about clients of a store. The information was provided by the clients when they signed up for a membership points card. Their spending score was calculated based on the data gathered from analyzing their purchases. The more the client spends at the store the higher the spending score is. The program segments clients into groups based on their spending score and income.
+This program uses the K-Means Clustering algorithm. The dataset which I analysed contains information about clients of a store. The information was provided by the clients when they signed up for a membership points card. Their spending score was calculated based on the data gathered from analyzing their purchases. The more the client spends at the store the higher the spending score is. This program segments clients into groups based on their spending score and income.
 
 ## Using the elbow method to determine the optimal amount of clusters (it's 5)
 
